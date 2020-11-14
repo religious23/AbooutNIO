@@ -13,9 +13,9 @@ import java.nio.channels.SocketChannel;
 import java.util.Iterator;
 
 /**
- * @Auther: 苏察哈尔丶灿
- * @Date: 2020/11/8 15:15
- * @Slogan: 我自横刀向天笑，笑完我就去睡觉。
+ * @author 王文
+ * @date 2020/11/05
+ * @motto 恢弘志士之气，不宜妄自菲薄
  */
 public class AcceptThread extends Thread implements EventThread {
     private final Logger logger = new Logger();

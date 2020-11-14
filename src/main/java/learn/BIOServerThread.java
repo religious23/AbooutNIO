@@ -6,6 +6,11 @@ import java.io.OutputStream;
 import java.net.ServerSocket;
 import java.net.Socket;
 
+/**
+ * @author 王文
+ * @date 2020/11/05
+ * @motto 恢弘志士之气，不宜妄自菲薄
+ */
 public class BIOServerThread {
 
 //    static byte[] bs = new byte[1024];
